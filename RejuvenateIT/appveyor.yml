@@ -2,7 +2,7 @@
 
 environment:
   NugetApiKey:
-    secure: oy2ik5yyd6qa646hdgtqb55yuo6jgdnebkal62al45av2a
+    secure: u+kXRD5ueIMSbEVGAN01FdNCQBhXkMQbBQKjqOZNSbDMgUC38g/9J563vnuxyCZb
 # Allow WMF5 (i.e. PowerShellGallery functionality)
 os: WMF 5
 
